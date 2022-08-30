@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Isaque Andrade</h1>
-<h3 align="center">Fascinado por engenharia, análise e visualização de dados.</h3>
+<h3 align="center">Fascinado por Engenharia, Análise e Visualização de Dados.</h3>
 
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de Dados no **Grupo NotreDame Intermédica**
 
