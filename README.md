@@ -9,7 +9,7 @@
 
 - 📫 Encontre-me através do email **isaqueandrade_1@outlook.com**
 
-- 📄 Conheça as minhas experiência [https://www.linkedin.com/in/oisaqueandrade/](https://www.linkedin.com/in/oisaqueandrade/)
+- 📄 Conheça as minhas experiências [https://www.linkedin.com/in/oisaqueandrade/](https://www.linkedin.com/in/oisaqueandrade/)
 
 - ⚡ Curiosidade: **Sou apaixonado por música 🎵**
 
