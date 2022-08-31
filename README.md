@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de Dados no **Grupo NotreDame Intermédica**
 
-- 🌱 Atualmente estou aprendendo **Azure, Power Plataform, Python e Java**
+- 🌱 Atualmente estou aprendendo **Azure, Power Platform, Python e Java**
 
 - 💬 Pergunte-me sobre **SQL, Power BI, Power Apps e Power Automate**
 
